@@ -67,7 +67,7 @@ function reiniciarJogo() {
 
 
 
-
+//Alteração feita neste projeto para poder comitar no repositório remot
 
 
 
